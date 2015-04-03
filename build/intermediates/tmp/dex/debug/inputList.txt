@@ -1,0 +1,3 @@
+/Users/mac/AndroidStudioProjects/iParking/Project2/build/intermediates/classes/debug
+/Users/mac/AndroidStudioProjects/iParking/Project2/build/intermediates/pre-dexed/debug/android-support-v4-03b8ad08d7cdd8c10f9852b0365078b94eac563b.jar
+/Users/mac/AndroidStudioProjects/iParking/Project2/build/intermediates/pre-dexed/debug/jcodec-0.1.5-ece6353e57783958b4a9fb447ff945dad178f940.jar

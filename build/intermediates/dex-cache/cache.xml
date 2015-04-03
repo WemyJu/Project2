@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/mac/AndroidStudioProjects/iParking/Project2/libs/android-support-v4.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ded9acc6a9792b8f1afc470f0c9cd36d178914cd">
+        <dex dex="/Users/mac/AndroidStudioProjects/iParking/Project2/build/intermediates/pre-dexed/debug/android-support-v4-03b8ad08d7cdd8c10f9852b0365078b94eac563b.jar" />
+    </item>
+    <item
+        jar="/Users/mac/AndroidStudioProjects/iParking/Project2/libs/jcodec-0.1.5.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a8558354054f7834c6fb6d2a63b9aad56ed4bc41">
+        <dex dex="/Users/mac/AndroidStudioProjects/iParking/Project2/build/intermediates/pre-dexed/debug/jcodec-0.1.5-ece6353e57783958b4a9fb447ff945dad178f940.jar" />
+    </item>
+
+</items>
